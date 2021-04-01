@@ -26,4 +26,12 @@ The code has been tested to run in MATLAB R2018b.
 
 ## Citation
 
-Coming soon...
+~~~
+@inproceedings{ding2021dual,
+  title={Dual Principal Component Pursuit for Learning a Union of Hyperplanes: Theory and Algorithms},
+  author={Ding, Tianyu and Zhu, Zhihui and Tsakiris, Manolis and Vidal, Rene and Robinson, Daniel},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={2944--2952},
+  year={2021},
+  organization={PMLR}
+}
